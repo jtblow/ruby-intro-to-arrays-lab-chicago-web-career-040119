@@ -13,3 +13,6 @@ def instantiate_new_array
  def last_element(taylor_swift)
    my_last_element = taylor_swift[-1]
  end
+ def first_element_with_array_methods(south_east_asia)
+   first country = south_east_asia.first
+ end
