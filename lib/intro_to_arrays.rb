@@ -16,4 +16,6 @@ def instantiate_new_array
  def first_element_with_array_methods(south_east_asia)
    south_east_asia.first
  end
- 
+ def last_element_with_array_methods(south_east_asia)
+   south_east_asia.last
+ end
