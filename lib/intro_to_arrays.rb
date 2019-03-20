@@ -10,3 +10,6 @@ def instantiate_new_array
  def third_element(taylor_swift)
    my_third_element = taylor_swift[2]
  end
+ def last_element(taylor_swift)
+   my_last_element = taylor_swift[-1]
+ end
