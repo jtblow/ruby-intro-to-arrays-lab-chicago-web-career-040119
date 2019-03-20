@@ -4,3 +4,6 @@ def instantiate_new_array
  def array_with_two_elements
    my_two_array = ["pinky", "brain"]
  end
+ def first_element
+   taylor_swift[0]
+ end
